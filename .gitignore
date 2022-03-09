@@ -2,11 +2,14 @@
 *.log
 *.pyc
 sbt/*.jar
+*.code-workspace
+.DS_Store
 
 # sbt specific
 .cache/
 .history/
 .lib/
+.bsp/
 dist/*
 target/
 lib_managed/
